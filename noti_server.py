@@ -17,5 +17,5 @@ while(True):
         print("Got it")
         mixer.music.play()
     detect_flag = detected
-    time.sleep(0.1)
+    time.sleep(0.5)
 
